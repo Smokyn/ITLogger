@@ -1,0 +1,23 @@
+{
+  "logs": [
+    {
+      "message": "internet fucking down boys, fix it",
+      "attention": true,
+      "tech": "George Oprea",
+      "date": "2020-01-28T19:03:32.906Z",
+      "id": 1
+    }
+  ],
+  "techs": [
+    {
+      "firstName": "Cosmin",
+      "lastName": "Lup",
+      "id": 4
+    },
+    {
+      "firstName": "George",
+      "lastName": "Oprea",
+      "id": 5
+    }
+  ]
+}
