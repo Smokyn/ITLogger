@@ -1,11 +1,18 @@
 {
   "logs": [
     {
-      "message": "internet fucking down boys, fix it",
-      "attention": true,
-      "tech": "George Oprea",
-      "date": "2020-01-28T19:03:32.906Z",
-      "id": 1
+      "id": 1,
+      "message": "internet fixed",
+      "attention": false,
+      "tech": "Cosmin Lup",
+      "date": "2020-02-02T00:09:31.168Z"
+    },
+    {
+      "message": "internet not working again",
+      "attention": false,
+      "tech": "Cosmin Lup",
+      "date": "2020-02-02T00:09:52.276Z",
+      "id": 2
     }
   ],
   "techs": [
@@ -18,6 +25,11 @@
       "firstName": "George",
       "lastName": "Oprea",
       "id": 5
+    },
+    {
+      "firstName": "Mihai",
+      "lastName": "Cainar",
+      "id": 6
     }
   ]
 }
